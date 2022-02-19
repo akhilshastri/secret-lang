@@ -8,7 +8,7 @@ import {
 } from "remix";
 
 export function meta() {
-  return { title: "New Remix App" };
+  return { title: "secret-lang" };
 }
 
 export default function App() {
